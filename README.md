@@ -20,11 +20,11 @@ won't work!
 2. Choosing the Right Tag
 I learned that different tags have different jobs:
 
-  a.<ul> and <li> are for simple lists.
+  a.ul and li are for simple lists.
 
-  b.<dl> and <dt> are for defining specific places or terms.
+  b.dl and dt are for defining specific places or terms.
 
-  c.<table> is the best way to compare two different sets of data.
+  c.table is the best way to compare two different sets of data.
 
 
 3. Interactive HTML
